@@ -1,0 +1,22 @@
+body{
+
+    background-image: url("https://www.iphones.ru/wp-content/uploads/2015/12/DuckTales-Main.jpg");
+    text-align: fixed
+    background-size : cover;
+    background-repeat : no-repeat;
+}
+
+p{
+    background-color: greenyellow;
+    color: black;
+    font-size: 25px;
+    margin: 10px 30px;
+    padding: 10px 25px 35px 45px;
+    width: 50%;
+    text-align: left;
+}  
+ 
+
+
+
+
